@@ -20,14 +20,17 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet DDos Attack")
+os.system("figlet DDoS Attack")
 print (" ")
 print ("/---------------------------------------------------\ ")
 print ("|   author   : TNET-峰                              |")
 print ("|   github   : https://github.com/TNET-feng         |")
 print ("|   csdn     : https://blog.csdn.net/2302_76189356  |")
-print ("|   version  : V0.1.0                               |")
+print ("|   version  : 0.1.0                                |")
 print ("\---------------------------------------------------/")
+print (" ")
+print (" ")
+print (" ")
 print (
 """Disclaimer for TNET-feng's Network Stress Testing Tool
 
@@ -49,6 +52,9 @@ FINAL ACKNOWLEDGMENT: BY PROCEEDING TO USE THIS SOFTWARE, I EXPRESSLY CONFIRM TH
 )
                                                                                                                                                                                                     
 print (" -----------------[Do not use for illegal purposes]----------------- ")
+print (" ")
+print (" ")
+print (" ")
 print (" ")
 ip = input("IP: ")
 port = int(input("port: "))
