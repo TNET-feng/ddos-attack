@@ -1,3 +1,5 @@
+# NEED PYTHON3
+
 # INSTRUCTIONS FOR USE:
 
 ## download(clone)
@@ -7,7 +9,7 @@ git clone https://github.com/TNET-feng/ddos-attack
 
 
 ## USE
-### Linux/Termux
+### Linux/Termux(python3)
 cd ddos-attack
 
 python ddos-attack.py
