@@ -1,4 +1,7 @@
-# NEED PYTHON3
+# Required dependencies:
+git
+
+python3
 
 # INSTRUCTIONS FOR USE:
 
