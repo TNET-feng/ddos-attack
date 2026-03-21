@@ -26,7 +26,7 @@ print ("---------------------------------------------------")
 print ("   author   : TNET-峰                              ")
 print ("   github   : https://github.com/TNET-feng         ")
 print ("   csdn     : https://blog.csdn.net/2302_76189356  ")
-print ("   version  : 0.2.2                                ")
+print ("   version  : 0.2.3                                ")
 print ("---------------------------------------------------")
 print ("   To update, please use the command : git pull    ")
 print ("---------------------------------------------------")
@@ -57,12 +57,6 @@ print (" ")
 print (" ")
 ip = input("IP: ")
 port = int(input("port: "))
-
-if ip.lower() == 'exit':
-    print("Exiting...")
-    sys.exit(0)
-
-
 sd = int(input("speed(1~1000) : "))
 
 os.system("clear")
