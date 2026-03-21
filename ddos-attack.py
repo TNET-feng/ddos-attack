@@ -57,6 +57,12 @@ print (" ")
 print (" ")
 ip = input("IP: ")
 port = int(input("port: "))
+
+if ip.lower() == 'exit':
+    print("Exiting...")
+    sys.exit(0)
+
+
 sd = int(input("speed(1~1000) : "))
 
 os.system("clear")
