@@ -26,7 +26,7 @@ print ("---------------------------------------------------")
 print ("   author   : TNET-峰                              ")
 print ("   github   : https://github.com/TNET-feng         ")
 print ("   csdn     : https://blog.csdn.net/2302_76189356  ")
-print ("   version  : 0.2.3                                ")
+print ("   version  : 0.2.4                                ")
 print ("---------------------------------------------------")
 print ("   To update, please use the command : git pull    ")
 print ("---------------------------------------------------")
@@ -48,8 +48,7 @@ IMPORTANT NOTICE: PLEASE READ THIS DISCLAIMER CAREFULLY BEFORE USING THIS SOFTWA
 5. No Warranty and Limitation of Liability: THIS SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT ANY WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL THE DEVELOPER, AUTHOR, OR ANY CONTRIBUTOR BE HELD LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 6. Assumption of Risk: You expressly acknowledge and agree that the use of this tool carries potential risks, and you undertake such use at your own discretion and risk. You are solely responsible for ensuring that your use complies with all applicable laws.
 
-FINAL ACKNOWLEDGMENT: BY PROCEEDING TO USE THIS SOFTWARE, I EXPRESSLY CONFIRM THAT I HAVE READ, UNDERSTOOD, AND UNCONDITIONALLY AGREED TO BE BOUND BY ALL TERMS AND CONDITIONS OF THIS DISCLAIMER. I AM FULLY AWARE THAT ANY UNAUTHORIZED OR MALICIOUS USE IS STRICTLY PROHIBITED AND MAY SUBJECT ME TO SERIOUS LEGAL AND CRIMINAL PENALTIES.""")
-                                                                                                                                                                                                    
+FINAL ACKNOWLEDGMENT: BY PROCEEDING TO USE THIS SOFTWARE, I EXPRESSLY CONFIRM THAT I HAVE READ, UNDERSTOOD, AND UNCONDITIONALLY AGREED TO BE BOUND BY ALL TERMS AND CONDITIONS OF THIS DISCLAIMER. I AM FULLY AWARE THAT ANY UNAUTHORIZED OR MALICIOUS USE IS STRICTLY PROHIBITED AND MAY SUBJECT ME TO SERIOUS LEGAL AND CRIMINAL PENALTIES.""")                                                                                                                                                                                                 
 print (" -----------------[Do not use for illegal purposes]----------------- ")
 print (" ")
 print (" ")
